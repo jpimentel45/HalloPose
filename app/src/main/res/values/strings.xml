@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HalloPose</string>
+    <string name="app_title">&#128123; Spoopy Things &#128123;</string>
+    <string name="read_time">&#129498; %1$d min read &#129498;</string>
+    <string name="top">&#129503; Top Story &#129503;</string>
+    <string name="popular">&#129412; Popular &#129412;</string>
+</resources>
